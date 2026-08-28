@@ -1,0 +1,6 @@
+# 不要上传密钥和本地依赖
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
