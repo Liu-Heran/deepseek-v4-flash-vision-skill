@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek-V4-vision-视觉调用"
+  short_description: "调用 DeepSeek V4 Flash Vision 识别图片，兼容多种智能体"
+  default_prompt: "Use $deepseek-v4-vision to describe this image with DeepSeek V4 Flash Vision."
