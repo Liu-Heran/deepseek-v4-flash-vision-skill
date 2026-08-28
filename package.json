@@ -1,0 +1,9 @@
+{
+  "name": "deepseek-v4-vision",
+  "private": true,
+  "version": "1.0.0",
+  "description": "让 Agent 调用 DeepSeek 视觉模型",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
